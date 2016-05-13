@@ -1,0 +1,31 @@
+qimaw6oa
+
+
+send mail to bank
+vandhana.shriram@hdfcbank.com
+
+
+
+
+Remote access and SUT request url 
+
+4:50:32 PM: http://igawebblr1.in.ibm.com:9080/WEBTRANS6_1/logon.action 
+
+4:51:06 PM: RTC Link Request: 
+
+4:51:09 PM: RTC  request  LINK:
+
+
+https://usam.svl.ibm.com:9443/AM/idman/AddSystemAccessDirectURL?&systemId=2521&dbName=idmandb
+ 
+
+4:51:47 PM: RTC Installation of software and Eclipse : 
+
+4:51:50 PM: https://w3-connections.ibm.com/wikis/home?lang=en#!/wiki/W81b6a90854d8_4fa1_85ae_f4598dd0ca89/page/RTC (https://w3-connections.ibm.com/wikis/home?lang=en#%21/wiki/W81b6a90854d8_4fa1_85ae_f4598dd0ca89/page/RTC)  Client Install
+
+
+
+https://w3-connections.ibm.com/wikis/home?lang=en#!/wiki/W81b6a90854d8_4fa1_85ae_f4598dd0ca89/page/RTC Client Install (https://w3-connections.ibm.com/wikis/home?lang=en#%21/wiki/W81b6a90854d8_4fa1_85ae_f4598dd0ca89/page/RTC Client Install)
+
+
+https://w3-connections.ibm.com/wikis/home?lang=en#!/wiki/W81b6a90854d8_4fa1_85ae_f4598dd0ca89/page/RTC Client Install   
